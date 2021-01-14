@@ -1,0 +1,36 @@
+.bg-coler{
+    background-color: blanchedalmond;
+}
+.btn-sized{
+    border-radius: 7px;
+    height: 80px;
+}
+.btn-size{
+    border-radius: 7px;
+    height: 80px;
+    float: right;
+}
+h1{
+    color: coral;
+}
+.text-coler{
+    color: darkblue;
+}
+small{
+    color: rgb(194, 17, 17);
+}
+.border-box{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: white;
+    shape-outside: 4px;
+    
+
+
+}
+.card-footer border-box{
+    border: 0;
+
+}
+        
+       
